@@ -1,0 +1,6 @@
+{
+  "name": "3 athlas",
+  "description": "Piattaforma AI conversazionale full-stack alimentata da Mistral AI con streaming real-time, gestione file, voce e cronologia persistente.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
